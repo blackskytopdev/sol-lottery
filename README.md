@@ -1,1 +1,3 @@
 # sol-lottery
+
+contact address
